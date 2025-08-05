@@ -46,8 +46,8 @@ git clone https://github.com/your-username/creatives-explorer.git
 
 cd creatives-explorer
 
-##2. Install Dependencies
-bash
-Copy
-Edit
+### 2. Install Dependencies
+
+```bash
+
 npm install
