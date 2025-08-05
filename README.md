@@ -67,3 +67,7 @@ http://localhost:5173
 - Microinteractions on hover
 - Mobile-friendly layout
 - Unsplash background integration
+
+## Created by - Priyanshu Tandon
+## Email- tandonpriyanshu972@gmail.com
+## LinkedIn - https://www.linkedin.com/in/priyanshu-tandon-a17b79227/
